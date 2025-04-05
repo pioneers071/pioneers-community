@@ -1,2 +1,4 @@
+telethon
 python-telegram-bot==20.7
-request
+deep-translator
+requests
